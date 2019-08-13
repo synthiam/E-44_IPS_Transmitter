@@ -8,7 +8,7 @@ This requires the Indoor Positioning System here: https://github.com/synthiam/E-
 
 This is 1 of a 2 part System that allows you to find the position of a robot within a room. The other half is an indoor positioning dual camera system. The IPS transmitter shines a 150° invisible infrared light beam that is picked up by the IPS's infrared camera.
 
-A unique feature of this IR transmitter is that it has an extremely wide angle of infrared light dispersion that can be picked up even when directly perpendicular to the LED. It also has built-in LED driver that consumes less current, and generates less heat than using classic resistor current limiting. 
+A unique feature of this IR transmitter is that it has an extremely wide angle of infrared light dispersion that can be picked up even when the IPS is directly perpendicular to the LED. It also has built-in LED driver circuit that consumes less current, and generates less heat than using classic resistor current limiting. 
 
 ## Contents
 
