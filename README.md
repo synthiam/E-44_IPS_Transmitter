@@ -11,7 +11,7 @@ Out of our passion to solve the issue of time waste in the robot creation proces
 We didn't stop at the software, we also made time saving hardware solutions. This IPS transmitter reference design is one of them. The IPS transmitter shines a 150° invisible infrared light beam that is picked up by the IPS's infrared camera. A unique feature of this IR transmitter is that it has an extremely wide angle of infrared light dispersion that can be picked up even when the IPS is directly perpendicular to the LED. It also has built-in LED driver circuit that consumes less current, and generates less heat than using classic resistor current limiting. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
 **Features:**
-- Combined with the IPS TX, this system can be used for night vision
+- Combined with the IPS, this system can be used for night vision
 - Switching Power Supply LED driver circuit
 - 150° extremely wide angle infrared Light dispersion
 - EZ-Builder behavior control available
